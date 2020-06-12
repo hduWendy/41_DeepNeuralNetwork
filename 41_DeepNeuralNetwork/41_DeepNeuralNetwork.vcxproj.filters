@@ -24,12 +24,21 @@
     <ClInclude Include="targetver.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="funtions.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="parameters.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="41_DeepNeuralNetwork.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="funtions.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
